@@ -1,0 +1,9 @@
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe.config
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.exe
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\bin\Debug\PuzzleGame.pdb
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csprojAssemblyReference.cache
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Form1.resources
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.Properties.Resources.resources
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.csproj.GenerateResource.cache
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.exe
+D:\CSharp\Projects\PuzzleGame\PuzzleGame\obj\Debug\PuzzleGame.pdb
